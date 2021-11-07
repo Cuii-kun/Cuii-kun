@@ -1,16 +1,35 @@
-### Hi there 👋
+<h1 align="center">Heya! I'm Cuizumi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1>
+<p align="center">
+<a href="https://youtube.com/channel/UCO8teSA3O_Nx6YgiMnxQeaw"><img align="center" height="auto" src="https://www.linkpicture.com/q/7c9005fe16bd484a24f58b50978f0fbd_1.jpg"/></a>
 
-<!--
-**Cuii-kun/Cuii-kun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
 
-Here are some ideas to get you started:
+- Hɪ ɪ'ᴍ ᴄᴜɪᴢᴜᴍɪ ᴀᴋᴀ Sᴜɪᴄɪᴅᴀʟ Mᴀɴɪᴀᴄ🦨
+- Lᴀʏ ᴏɴ ᴍᴀʏ 15 (Aɢᴇ 17)
+- 間違った時期に生まれ、別の時期に住みたいと思っている。🎼
+- スケートボードライダー 🛹🦨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+------
+
+### Connect with me 
+<p align="center">
+  <a href="https://www.instagram.com/cuizumi/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://wa.me/916002313582"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /><br>
+
+  
+------
+
+### Spotify Music
+
+<p align="center">
+  <a href="https://open.spotify.com/track/4bNvS25ZVMCvLHEUV87mp4?si=yb1PaPVnRgiTYedy8r6i_g&utm_source=copy-link&context=spotify%3Aplaylist%3A37i9dQZF1EIVoBTSiHHsdx&dl_branch=1" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+</p>
+
+------
+ 
+### Github Stats 
+
+![github card](https://github-readme-stats.vercel.app/api?username=Cuii-kun&show_icons=true&theme=radical)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cuii-kun&theme=monokai)
