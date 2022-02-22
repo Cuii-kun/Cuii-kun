@@ -30,6 +30,6 @@
  
 ### Github Stats 
 
-![github card](https://github-readme-stats.vercel.app/api?username=Cuii-kun&show_icons=true&theme=radical)
+![github card](https://github-readme-stats.vercel.app/api?username=HyaSE&show_icons=true&theme=radical)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cuii-kun&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HyaSE&theme=monokai)
