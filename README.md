@@ -17,7 +17,7 @@
 
 ------
 
-### ― ⌞ 𝐌𝐔𝐋𝐓𝐈 𝐌𝐄𝐃𝐈𝐀 ⌝ ―
+### ― ⌞ Multi Media ⌝ ―
 <p align="center">
   <a href="https://www.instagram.com/hyase._/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
   <a href="https://wa.me/916002313582"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /><br>
@@ -25,7 +25,7 @@
   
 ------
 
-### ― ⌞ Spotify Music ⌝ ―
+### ― ⌞ Playlist ⌝ ―
 
 <p align="center">
   <a href="https://open.spotify.com/track/4bNvS25ZVMCvLHEUV87mp4?si=yb1PaPVnRgiTYedy8r6i_g&utm_source=copy-link&context=spotify%3Aplaylist%3A37i9dQZF1EIVoBTSiHHsdx&dl_branch=1" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
@@ -33,7 +33,7 @@
 
 ------
  
-### ― ⌞ Github Stats ⌝ ―
+### ― ⌞ Github Info ⌝ ―
 
 ![github card](https://github-readme-stats.vercel.app/api?username=HyaSE&show_icons=true&theme=radical)
 
