@@ -5,7 +5,7 @@
   
 ------
   
-  <h3 align="center">| Beginner | Student |</h3>
+  <h3 align="center">| 𝐁𝐞𝐠𝐢𝐧𝐧𝐞𝐫  | 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 |</h3>
 
 <p align="center">
 
