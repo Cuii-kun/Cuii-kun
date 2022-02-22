@@ -1,4 +1,4 @@
-<h1 align="center">Heya! I'm HyaSE <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1>
+<h1 align="center">Heya! I'm HվαSE ♪ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1>
 <p align="center">
 <a href="https://youtube.com/channel/UCO8teSA3O_Nx6YgiMnxQeaw"><img align="center" height="auto" src="https://www.linkpicture.com/q/7c9005fe16bd484a24f58b50978f0fbd_1.jpg"/></a>
 
