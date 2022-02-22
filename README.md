@@ -11,8 +11,8 @@
 
 - I'm HվαSE ♪
 - Age: 17 (15.05.2004)
-- 間違った時期に生まれ、別の時期に住みたいと思っている。🎼
-- スケートボードライダー 🛹🦨
+- Not intrested in anything except girls with glasses"
+- Don't take drugs' it's expensive.
 
 
 ------
