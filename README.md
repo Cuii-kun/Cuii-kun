@@ -1,6 +1,6 @@
 <h1 align="center">HվαSE ♪</h1>
 <p align="center">
-<a href="https://youtube.com/channel/UCO8teSA3O_Nx6YgiMnxQeaw"><img align="center" height="auto" src="https://www.linkpicture.com/q/7ee4b574e89de400788a86864ac7ec3c-3.jpg"/></a>
+<a href="https://youtube.com/channel/UCO8teSA3O_Nx6YgiMnxQeaw"><img align="center" height="auto" src="https://www.linkpicture.com/q/wp8771808.jpg"/></a>
   
   
 ------
