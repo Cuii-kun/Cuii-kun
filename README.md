@@ -17,7 +17,7 @@
 
 ------
 
-### ― ⌞ Multi Media ⌝ ―
+### 𝐌𝐮𝐥𝐭𝐢 𝐌𝐞𝐝𝐢𝐚
 <p align="center">
   <a href="https://www.instagram.com/cuizumi/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
   <a href="https://wa.me/916002313582"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /><br>
@@ -25,7 +25,7 @@
   
 ------
 
-### ― ⌞ Playlist ⌝ ―
+### 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭
 
 <p align="center">
   <a href="https://open.spotify.com/track/4bNvS25ZVMCvLHEUV87mp4?si=yb1PaPVnRgiTYedy8r6i_g&utm_source=copy-link&context=spotify%3Aplaylist%3A37i9dQZF1EIVoBTSiHHsdx&dl_branch=1" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
@@ -33,7 +33,7 @@
 
 ------
  
-### ― ⌞ Github Info ⌝ ―
+### 𝐆𝐢𝐭𝐡𝐮𝐛 𝐈𝐧𝐟𝐨
 
 ![github card](https://github-readme-stats.vercel.app/api?username=HyaSE&show_icons=true&theme=radical)
 
