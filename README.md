@@ -1,6 +1,7 @@
 <h1 align="center">Hվαsҽ Suσɦ 🐾</h1>
 <p align="center">
 <a href="https://youtube.com/channel/UCO8teSA3O_Nx6YgiMnxQeaw"><img align="center" height="auto" src="https://www.linkpicture.com/q/wp8771808.jpg"/></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HyaSE&label=Profile%20views&color=0e75b6&style=flat" alt="oreki-san" /> </p>
   
   
 ------
