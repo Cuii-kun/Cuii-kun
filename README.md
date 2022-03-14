@@ -1,4 +1,4 @@
-<h1 align="center">HÕ¾Î±sÒ½ SuÏƒÉ¦ ðŸ¾</h1>
+<h1 align="center">Hվαsҽ Suσɦ 🐾</h1>
 <p align="center">
 <a href="https://youtube.com/channel/UCO8teSA3O_Nx6YgiMnxQeaw"><img align="center" height="auto" src="https://www.linkpicture.com/q/wp8771808.jpg"/></a>
   
