@@ -40,12 +40,13 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HyaSE&theme=monokai)
     
-<p align="center">
-  <a href="https://github.com/HyaSE"><img src="https://github-readme-streak-stats.herokuapp.com?user=HyaSE&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
-</p>
+<p align="left"> <a href="https://github.com/HyaSE"><img src="https://github-readme-streak-stats.herokuapp.com?user=HyaSE&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a> </p>
 
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true
 "><img src="https://github-profile-trophy.vercel.app/?username=HyaSE" alt="HyaSE" /></a> </p>
+
+
+
 
 
 
