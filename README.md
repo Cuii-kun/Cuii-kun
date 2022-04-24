@@ -10,7 +10,7 @@
 
 <p align="center">
 
-- I'm Hyase Suoh, a shameless noob coder.
+- I'm Hyase San, a noob programer.
 - Age - 17 (15.05.2004)
 - Intrested in learning new things and you.
 - Don't drug, it's expensive.
