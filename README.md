@@ -10,9 +10,9 @@
 
 <p align="center">
 
-- I'm Hyase San, a noob programer.
+- I'm someone you aren't suppose to know.
 - Age - 17 (15.05.2004)
-- Intrested in learning new things and you.
+- Fuck it, we ball.
 - Don't drug, it's expensive.
 
 
