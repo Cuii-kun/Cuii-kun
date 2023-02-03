@@ -1,7 +1,7 @@
 <h1 align="center">ΉYΛSΣ</h1>
 <p align="center">
 <a href="https://wa.me/916002313582"><img align="center" height="auto" src="https://www.linkpicture.com/q/wp8771808.jpg"/></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HyaSE&label=Profile%20views&color=0e75b6&style=flat" alt="oreki-san" /> </p>
+<p align="left"> <img src="https://www.linkpicture.com/q/Picsart_23-02-03_14-36-44-314.jpg" alt="oreki-san" /> </p>
   
   
 ------
