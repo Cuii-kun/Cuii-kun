@@ -1,6 +1,6 @@
 <h1 align="center">ΉYΛSΣ</h1>
 <p align="center">
-<a href="https://wa.me/916002313582"><img align="center" height="auto" src="https://www.linkpicture.com/q/wp8771808.jpg"/></a>
+<a href="https://wa.me/916002313582"><img align="center" height="auto" src="https://www.linkpicture.com/q/Picsart_23-02-24_19-19-48-586.png"/></a>
 <p align="left"> <img src="https://www.linkpicture.com/q/Picsart_23-02-03_14-36-44-314.jpg" alt="oreki-san" /> </p>
   
   
